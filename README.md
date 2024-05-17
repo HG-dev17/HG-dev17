@@ -1,6 +1,6 @@
-### Welcome here! 👋,I''m m_HG_m
+
 <!---
-  _____                                    _
+  _### Welcome here! 👋,I''m m_HG_m____                                    _
  |  __ \                                  | |
  | |  | | _____   _______      _____  _ __| | __
  | |  | |/ _ \ \ / / __\ \ /\ / / _ \| '__| |/ /
@@ -9,20 +9,30 @@
     powered by gxnu202310402025 devs-HG HG245*
 -->
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to E-language/HTML/C.
-- 📫 How to reach me: 1953573471@qq.com
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm m_HG_m
+</p>
 
-![m_HG_m's GitHub stats](https://github-readme-stats.vercel.app/api?username=HG-dev17&show_icons=true&theme=radical)
+![m_HG_m's GitHub stats](https://github-readme-stats.vercel.app/api?username=HG-dev17&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HG-dev17&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HG-dev17&layout=compact&theme=tokyonight)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/HG-dev17/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/HG-dev17/count.svg) visitor,Thank You!
 
 ### My Skill Set
 
 none!
+
+<p align='center'>
+  <img src="https://hg-dev17.github.io/images/ico/HGTOOL.ico" width="16" height="16" style="border-radius: 100%;" />
+  <a href="https://hg-dev17.github.io">m_HG_m's Bolg</a>.
+  <img src="https://i1.hdslb.com/bfs/face/cc9411b9bdc5de77143460d11440e0d8e254db1b.webp@240w_240h_1c_1s_!web-avatar-space-header.avif" width="16" height="16" style="border-radius: 1%;" />
+<a href="https://space.bilibili.com/417989887">@m_HG_m</a>
+ </p>
+ <p align='center'>
+<a>时间不是解药，但解药藏在时间里。</a>
+</p>
+
 
 
 <!--
