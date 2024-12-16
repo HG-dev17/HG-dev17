@@ -24,13 +24,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/HG-dev17/count.svg
 none!
 
 <p align='center'>
-  <img src="https://hg-dev17.github.io/images/ico/HGTOOL.ico" width="16" height="16" style="border-radius: 100%;" />
+  <img src="https://hg-dev17.github.io/img/HGTOOL.ico" width="16" height="16" style="border-radius: 100%;" />
   <a href="https://hg-dev17.github.io">m_HG_m's Bolg</a>.
   <img src="https://i1.hdslb.com/bfs/face/cc9411b9bdc5de77143460d11440e0d8e254db1b.webp@240w_240h_1c_1s_!web-avatar-space-header.avif" width="16" height="16" style="border-radius: 1%;" />
 <a href="https://space.bilibili.com/417989887">@m_HG_m</a>
  </p>
  <p align='center'>
-<a>时间不是解药，但解药藏在时间里。</a>
+<a>life is always so short-lived</a>
 </p>
 
 
