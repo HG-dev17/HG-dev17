@@ -23,7 +23,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/HG-dev17/count.svg
 
 ### My Skill Set
 
-none!
+music mixing!
 
 <p align='center'>
   <img src="https://hg-dev17.github.io/img/HGTOOL.ico" width="16" height="16" style="border-radius: 100%;" />
